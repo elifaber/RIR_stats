@@ -38,7 +38,7 @@ Functions for RIR feature extraction
   - **IC**: Interaural Coherence
 
 - **`calcLEF.m`**  
-  Computes the Lateral Energy Fraction (LEF), a spatial impression metric based on the amount of energy arriving from the sides. This requires an omnidirectional and a figure 8 measurement taken with the null of the figure 8 microphone pointing at the 
+  Computes the Lateral Energy Fraction (LEF), a spatial impression metric based on the amount of energy arriving from the sides. This requires an omnidirectional and a figure 8 measurement taken with the null of the figure 8 microphone pointing at the sound source
 
 - **`calcRT.m`**  
   Estimates the reverberation time (T20, T30, or any other user specified decay value.) It can also calculate EDT
