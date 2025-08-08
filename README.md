@@ -1,9 +1,6 @@
 # RIR_stats
 Contains helper functions for analyzing room impulse response data from several microphone configurations (single, binaural, etc.)
 ---
-
-## Folder Structure
-
 ### `/+samples/`
 
 Contains sample room impulse responses and HRTF (Head-Related Transfer Function) data.
